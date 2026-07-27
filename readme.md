@@ -48,19 +48,19 @@ A telecom company wants to identify which customers are likely to cancel their s
 
 ### Churn by Contract Type
 
-![Churn by Contract Type](Images/01_churn_by_contract.png)
+![Churn by Contract Type](images/01_churn_by_contract.png)
 
 ### Tenure Distribution
 
-![Tenure Impact](Images/02_tenure_distribution.png)
+![Tenure Impact](images/02_tenure_distribution.png)
 
 ### Model Performance - Confusion Matrix
 
-![Confusion Matrix](Images/05_confusion_matrix.png)
+![Confusion Matrix](images/05_confusion_matrix.png)
 
 ### Top Churn Drivers
 
-![Churn Drivers](Images/06_churn_drivers.png)
+![Churn Drivers](images/06_churn_drivers.png)
 
 ## Recommended Retention Strategies
 
