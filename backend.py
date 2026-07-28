@@ -10,7 +10,7 @@ warnings.filterwarnings('ignore')
 
 # Load the trained model
 try:
-    with open('churn_model.pkl', 'rb' , encoding = "UTF-8") as f:
+    with open('churn_model.pkl', 'rb') as f:
         model = pickle.load(f)
     print("✓ Model loaded successfully")
 except FileNotFoundError:
